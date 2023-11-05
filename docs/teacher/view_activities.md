@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assigned activities
-parent: teacher
+parent: Teacher
 nav_order: 2
 ---
 
