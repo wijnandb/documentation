@@ -2,6 +2,7 @@
 layout: default
 title: Company
 has_children: true
+nav_order: 5
 ---
 
 The Company section deals with all the pages and actions a Company can perform in the application.

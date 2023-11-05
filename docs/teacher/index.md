@@ -2,6 +2,7 @@
 layout: default
 title: Teacher
 has_children: true
+nav_order: 3
 ---
 
 A Teacher is a User with the role of Teacher. They are the people who go the school and guide the Students during an Activity.
