@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Brede School documentation
+description: Documentation for after school program organization, a.k.a. Brede School
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://wijnandb.github.io/documentation
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
