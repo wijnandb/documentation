@@ -2,8 +2,10 @@
 layout: default
 title: Assigned activities
 parent: Teacher
-nav_order: 2
+nav_order: 20
 ---
 
-Screenshot + description of task(s) to be performed.
+Overview of assigned activities. Clickthrough to enter attendance.
+
+See example at [teacher dashboard](https://acceptatiebredeschoolzuidoost.herokuapp.com/teacher/dashboard/)
 
