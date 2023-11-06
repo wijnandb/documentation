@@ -17,7 +17,7 @@ Text to be translated:
 ## Akkoord met voorwaarden en spelregels
 Ik ben als ouder verantwoordelijk voor deelname van mijn kind aan de activiteiten van de Brede School. Mijn kind en ik houden ons aan de spelregels. Door in te schrijven ga ik hiermee akkoord.
 
-[BUTTON TO AGREE]
+BUTTON TO AGREE
 
 ## Spelregels deelname aan activiteiten van de Brede School Zuidoost
 Om de Brede School goed en veilig te kunnen organiseren hebben we een aantal spelregels. Als u uw kind aanmeldt voor deelname vragen wij u met onderstaande spelregels akkoord te gaan.
