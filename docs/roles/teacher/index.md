@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teacher
+parent: Roles
 has_children: true
 nav_order: 3
 ---

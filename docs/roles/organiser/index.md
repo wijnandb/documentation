@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Organiser
+parent: Roles
 has_children: true
 nav_order: 7
 ---
