@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Current enrollments
+grandparent: Roles
 parent: Parent
 nav_order: 1
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: View Portfolio
+grandparent: Roles
 parent: Parent
 nav_order: 6
 ---

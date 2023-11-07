@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Activities to enroll in
+grandparent: Roles
 parent: Parent
 nav_order: 2
 ---
