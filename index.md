@@ -8,7 +8,7 @@ nav_order: 0
 
 To have all the information about rge Breed School application in one place and allow people involved to contribute to the documentation, this iste is set up.
 
-We explai about the purpose and the working of the site, links to the code and where it is deployed can be found here.
+We explain about the purpose and the working of the site, links to the code and where it is deployed can be found here.
 
 We are in the process of setting up a stagiong environment which wil function as a test environment as well. Every role within the application wil have a demo login, so evreyone interested can have a look.
 We are also setting up a small apllication that logs in as a User with a certain role, visits all the pages within that role and takes a screenshot and stores it.
