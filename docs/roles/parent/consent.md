@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Consent
-grandparent: Roles
+grand_parent: Roles
 parent: Parent
 nav_order: 1
 ---
