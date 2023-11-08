@@ -12,6 +12,7 @@ We explain about the purpose and the working of the site, links to the code and 
 
 We are in the process of setting up a stagiong environment which wil function as a test environment as well. Every role within the application wil have a demo login, so evreyone interested can have a look.
 We are also setting up a small apllication that logs in as a User with a certain role, visits all the pages within that role and takes a screenshot and stores it.
+You can see the results [here](https://wijnandb.github.io/screenshots_automated/)
 
-Before we can launch that application properly, we need to fill the staging environment with fake data.
+Before we can launch that application properly, we need to fill the staging environment with fake data. To do this, we can either manually create fixtures, or have them created by Faker.
 
