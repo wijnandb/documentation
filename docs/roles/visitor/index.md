@@ -20,4 +20,4 @@ Other pages we want to display:
 - [Login](https://acceptatiebredeschoolzuidoost.herokuapp.com/accounts/login/)
 - [Forgot password](https://acceptatiebredeschoolzuidoost.herokuapp.com/accounts/password/reset/)
 
-On the "Aanmelden" page: I think we need to explain more and better how the integration with the Student Administration System works.
+On the "Aanmelden" page: I think we need to explain better how the integration with the Student Administration System works.
